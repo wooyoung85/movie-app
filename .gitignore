@@ -23,5 +23,6 @@ yarn-debug.log*
 yarn-error.log*
 
 
-# Optional eslint cache
+# Optional
 .eslintcache
+package-lock.json
